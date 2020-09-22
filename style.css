@@ -1,0 +1,143 @@
+/*main*/
+body {
+    background-image: url(hell1.jpeg)  ;
+    background-attachment: fixed;
+	background-size: 100% ; 
+    padding-bottom: 105px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    color: #fff;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.title {
+	padding-top: 60px;  
+	padding-bottom: 70px ;
+
+
+}
+
+.title_main {
+	font-size: 32px;
+	text-align: center;
+}
+
+.title_text {
+	font-size: 20px;
+    text-align: center;
+}
+p {
+	font-size: 20px;
+   
+}
+/*info*/
+.header{
+    color: #FF0000;
+    margin-bottom:100px;
+}
+.brand{
+    height: 40px;
+    width:40px;
+    border-radius: 50%;
+    margin-bottom:16px;
+    
+}
+.brandText{
+    margin-top:8px;
+    color: #FF0000;
+}
+.inline{
+    display:inline-block;
+}
+.menu {
+    margin-top:8px;
+}
+
+.menu__item {
+    margin: 0 57px;
+}
+.menu__item a {
+    font-size:22px;
+    font-weight:700;
+    color: #FFF;
+}
+.pic{
+    display:block;
+    margin:50px auto 0;
+    width: 100%;
+    border-radius:5%
+}
+.icons__item {
+    margin-right:30px;
+}
+.icons__item a {
+    color: #fff;
+    font-size: 42px;
+}
+.meHeader{
+    margin-top:40px;
+}
+/*intresting*/
+.intresting{
+    background-color: #FF0000;
+    border-radius:5%
+}
+.feature {
+    margin-bottom: 65px;
+}
+
+.feature__icon {
+    font-size: 50px;
+    margin-right: 37px;
+    color: #000
+}
+
+.feature__text {
+    color: #000
+}
+/*contacts*/
+
+    
+
+.conCon{
+    margin-top:100px;
+    background-color:#000;
+    border-radius:5%;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+        background-image: url(hell1.jpeg)  ;
+        background-attachment: fixed;
+        background-size: 100% ; 
+        padding-bottom: 105px;
+        font-family: 'PT Sans', sans-serif;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    body {
+        background-image: url(hell1.jpeg)  ;
+        background-attachment: fixed;
+        background-size: 100% ; 
+        padding-bottom: 105px;
+        font-family: 'PT Sans', sans-serif;
+    }
+}
