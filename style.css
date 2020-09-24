@@ -49,7 +49,7 @@ p {
 }
 /*info*/
 .header{
-    color: #0000FF;
+    color: ##22cef5;
     margin-bottom:100px;
 }
 .brand{
@@ -61,7 +61,7 @@ p {
 }
 .brandText{
     margin-top:8px;
-    color: #0000FF;
+    color: ##22cef5;
 }
 .inline{
     display:inline-block;
@@ -96,7 +96,7 @@ p {
 }
 /*intresting*/
 .intresting{
-    background-color: #0000FF;
+    background-color: ##22cef5;
     border-radius:5%
 }
 .feature {
