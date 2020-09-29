@@ -1,6 +1,6 @@
 /*main*/
 body {
-    background-image: url(252.jpg)  ;
+    background-image: url(main_2x.jpg)  ;
     background-attachment: fixed;
 	background-size: 100% ; 
     padding-bottom: 105px;
@@ -124,7 +124,7 @@ p {
 
 @media screen and (max-width: 992px) {
     body {
-        background-image: url(252.jpg)  ;
+        background-image: url(main_1x.jpg)  ;
         background-attachment: fixed;
         background-size: 100% ; 
         padding-bottom: 105px;
@@ -134,7 +134,7 @@ p {
 
 @media screen and (max-width: 576px) {
     body {
-        background-image: url(125.jpg)  ;
+        background-image: url(main_3x.jpg)  ;
         background-attachment: fixed;
         background-size: 100% ; 
         padding-bottom: 105px;
