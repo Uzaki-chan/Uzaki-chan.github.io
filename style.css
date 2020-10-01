@@ -6,6 +6,7 @@ body {
     padding-bottom: 105px;
     font-family: 'PT Sans', sans-serif;
 	background-size: cover;
+	height: 100%;
 }
 
 ul, li {
@@ -131,6 +132,7 @@ p {
         padding-bottom: 105px;
         font-family: 'PT Sans', sans-serif;
 	    background-size: cover;
+	    height: 100%;
     }
 }
 
@@ -142,5 +144,6 @@ p {
         padding-bottom: 105px;
         font-family: 'PT Sans', sans-serif;
 	    background-size: cover;
+	    height: 100%;
     }
 }
