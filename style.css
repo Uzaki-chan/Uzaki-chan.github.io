@@ -2,7 +2,7 @@
 body {
     background-image: url(main_2x.jpg)  ;
     background-attachment: fixed;
-	background-size: 100% ; 
+	background-size: contain ; 
     padding-bottom: 105px;
     font-family: 'PT Sans', sans-serif;
 	background-size: cover;
@@ -128,7 +128,7 @@ p {
     body {
         background-image: url(main_1x.jpg)  ;
         background-attachment: fixed;
-        background-size: 100% ; 
+        background-size: contain ; 
         padding-bottom: 105px;
         font-family: 'PT Sans', sans-serif;
 	    background-size: cover;
@@ -140,7 +140,7 @@ p {
     body {
         background-image: url(main_3x.jpg)  ;
         background-attachment: fixed;
-        background-size: 100% ; 
+        background-size: contain ; 
         padding-bottom: 105px;
         font-family: 'PT Sans', sans-serif;
 	    background-size: cover;
